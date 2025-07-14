@@ -1,72 +1,49 @@
-## Hi there 👋
+## Sejam Bem-Vindos!
 
-<!--Cabeçalhos-->
-
-# Titulo 1
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### Titulo 6
-
-<!--Italico e Negrito-->
-*italico* ou _italico_
-
-**NEGRITO** ou __NEGRITO__
-
-<!-- Lista -->
-- Lista 1
-- Lista 2
-    - Sublista
-
-1. Lista 1
-2. Lista 2
-    1. SubLista 1
-    2. SubLista 2
+![Gif Jim Carey](https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=414&h=280&crop=1)
+-------
 
 
-<!--Imagem-->
+🌕 Olá, me chamo João Carlos!
 
-[Sumerio Tecnologia](https://static.mundoeducacao.uol.com.br/mundoeducacao/2024/09/escrita-cuneiforme.jpg)
+📘 Sou Analista de Sistema, estou cursando a faculdade de Analise e Desenvolvimento de Sistemas. Possuo Cursos de SQL SERVER, Web Developer e atuo no mercado varejo com experiência em ERPs, análise de dados e desenvolviemento de sistemas com Visual Fox Pro, .Net, C#, Entity Framework.
 
-![Sumerio Tecnologia](https://static.mundoeducacao.uol.com.br/mundoeducacao/2024/09/escrita-cuneiforme.jpg)
+📫[Acesse Meu Linkedin](https://www.linkedin.com/in/jo%C3%A3o-carlos-s-93a55749/)
 
-<!--Bloco de código-->
-`select * from tabelas where id = 123`
+----
 
-```
-leia(num)
-enquanto (num == 0)
-{
-se num%2 == 0
-	escreva("PAR")
-	senao
-	escreva("IMPAR")
-leia(num)
-}
-```
+### Minhas Tecnologias
 
-<!--Citações-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px/>
 
-> Citações: Ser ou Não ser eis a questão?
+----
+|Cursos | Certificados|
+|---    | -----       | 
+|Sql Server| 2012     |
 
-<!--Tabelas-->
-
-|Cabeçalho 1 | CAbeçalho 2 |
-|----------- |------------ |
-|Texto 1     | Texto 2     |
-|----------- |------------ |
-|Texto 3     | Texto 4     |
+----
 
 
-<!--Checkout-->
+![adaatualizacao's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adaatualizacao&theme=vision-friendly-dark&hide_border=true)
+![adaatualizacao's Stats](https://github-readme-stats.vercel.app/api?username=adaatualizacao&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=false)
+![adaatualizacao's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adaatualizacao&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
-[X] Tarefa 1 <br>
-[] Tarefa 2  <br>
-[X] Tarefa 3 <br>
-[] Tarefa 4  <br>
-
-
+          
+          
+                   
+          
+          
+          
+          
+          
+          
 
 
 
