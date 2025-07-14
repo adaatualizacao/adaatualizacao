@@ -23,12 +23,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="100px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px/>
 </p>
-----
-|Cursos | Certificados|
-|---    | -----       | 
-|Sql Server| 2012     |
 
 ----
+
+<br><br>
+
 
 
 ![adaatualizacao's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adaatualizacao&theme=vision-friendly-dark&hide_border=true)
