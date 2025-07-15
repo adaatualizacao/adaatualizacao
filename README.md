@@ -1,64 +1,57 @@
-## Sejam Bem-Vindos!
+# E aí, eu sou João Carlos! 👋
 
-![Gif Jim Carey](https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=414&h=280&crop=1)
--------
+Estou na jornada de aprender e explorar o mundo da tecnologia, sempre buscando crescer e descobrir novas habilidades.  
+Aqui você encontra um pouco do que já manjo, dos meus interesses e do que tô construindo.
 
+---
 
-🌕 Olá, me chamo João Carlos!
+## 🚀 Tecnologias que já estou mexendo
 
-📘 Sou Analista de Sistema, estou cursando a faculdade de Analise e Desenvolvimento de Sistemas. Possuo Cursos de SQL SERVER, Web Developer e atuo no mercado varejo com experiência em ERPs, análise de dados e desenvolviemento de sistemas com Visual Fox Pro, .Net, C#, Entity Framework.
+- **Linguagens:** C#, SQL Server, Oracle, Visual FoxPro, JavaScript, HTML, CSS, C  
+- **Frameworks & Ferramentas:** .NET, Dapper, React (em estudo), Angular (em estudo), GitLab  
+- **Banco de Dados:** SQL Server, Oracle, DBF (FoxPro)  
+- **Outros:** Markdown, integração com APIs REST, segurança da informação, padrões de código  
+- **Extras:** Astrologia aplicada, apps inovadores, cultura egípcia, Santo Graal e muito mais!
 
-📫[Acesse Meu Linkedin](https://www.linkedin.com/in/jo%C3%A3o-carlos-s-93a55749/)
+---
 
-----
-
-### Minhas Tecnologias
+### Minhas Tecnologias  
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="100px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="100px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="100px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="100px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="100px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px"/>
 </p>
 
-----
+---
 
-<br><br>
-
-
+## 📊 Minhas estatísticas no GitHub
 
 ![adaatualizacao's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adaatualizacao&theme=vision-friendly-dark&hide_border=true)
------
+
+---
+
 ![adaatualizacao's Stats](https://github-readme-stats.vercel.app/api?username=adaatualizacao&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=false)
-------
+
+---
+
 ![adaatualizacao's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adaatualizacao&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact&langs_count=7&)
 
-          
-          
-                   
-          
-          
-          
-          
-          
-          
+---
 
+## Sobre mim
 
+- Curioso e determinado, gosto de desafios que me façam aprender e melhorar.  
+- Trabalho com tecnologia no varejo e indústria, buscando sempre soluções práticas e eficientes.  
+- Gosto de conversar aberto, com seriedade e um toque de leveza.  
+- Esse espaço é pra compartilhar minha caminhada, meus projetos e o que me inspira.
 
-<!--
-**adaatualizacao/adaatualizacao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+✌️ Valeu por passar aqui! Se quiser trocar ideia, é só chamar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
